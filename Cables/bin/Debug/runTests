@@ -1,0 +1,10 @@
+cd /Users/Sergey/Documents/Projects/Yandex/Cables/bin/Debug/
+
+echo Test 1: >output.txt
+./Cables <input1.txt >>output.txt
+
+echo Test 2: >>output.txt
+./Cables <input2.txt >>output.txt
+
+echo Test 3: >>output.txt
+./Cables <input3.txt >>output.txt

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6D622A9C-409E-472D-A6B4-6B96583F467D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB2CDE70-C872-4D02-8769-2607EBAD9E6E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LostText/Animations/AnimationReader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "readRect(_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2760BFCE-66D2-49B1-A697-BDBB4258FC1D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LostText/Animations/AnimationReader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "readAnimation(_:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "2760BFCE-66D2-49B1-A697-BDBB4258FC1D - 39e392531aa96011"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LostText.readAnimation(Swift.Array&lt;Swift.Substring&gt;) -&gt; Swift.Optional&lt;LostText.Animation&gt;"
+                  moduleName = "LostText"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Sergey/Documents/Projects/Yandex/Animation/LostText/LostText/Animations/AnimationReader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "165">
+               </Location>
+               <Location
+                  uuid = "2760BFCE-66D2-49B1-A697-BDBB4258FC1D - 39e392531aa96011"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LostText.readAnimation(Swift.Array&lt;Swift.Substring&gt;) -&gt; Swift.Optional&lt;LostText.Animation&gt;"
+                  moduleName = "LostText"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Sergey/Documents/Projects/Yandex/Animation/LostText/LostText/Animations/AnimationReader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "215">
+               </Location>
+               <Location
+                  uuid = "2760BFCE-66D2-49B1-A697-BDBB4258FC1D - 39e392531aa96011"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LostText.readAnimation(Swift.Array&lt;Swift.Substring&gt;) -&gt; Swift.Optional&lt;LostText.Animation&gt;"
+                  moduleName = "LostText"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Sergey/Documents/Projects/Yandex/Animation/LostText/LostText/Animations/AnimationReader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "689">
+               </Location>
+               <Location
+                  uuid = "2760BFCE-66D2-49B1-A697-BDBB4258FC1D - 39e392531aa96011"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LostText.readAnimation(Swift.Array&lt;Swift.Substring&gt;) -&gt; Swift.Optional&lt;LostText.Animation&gt;"
+                  moduleName = "LostText"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Sergey/Documents/Projects/Yandex/Animation/LostText/LostText/Animations/AnimationReader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "1117">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4308A2F3-A444-4509-A288-2CFA658A5743"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LostText/AnimationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "layout()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A577592C-3965-480F-A29B-216CF1559D1B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LostText/AnimationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "layout()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D13541B-85A3-4D27-B24F-6AF5C44A916C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LostText/AnimationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "layout()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
